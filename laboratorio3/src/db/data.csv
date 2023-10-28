@@ -1,5 +1,0 @@
-id,nombre,ca_disponible,ca_vendidos,estado,precio,categoria,talla,tipo/color/material
-100,Pantalón de lona,10,2,disponible,350,pantalon,28,lona
-200,Camisa Polo,20,3,disponible,240,camisa,xs,rojo
-300,Collar Mujer,30,4,disponible,450,collar,xs,oro
-400,Collar Hombre,70,8,disponible,450,collar,xs,oro
